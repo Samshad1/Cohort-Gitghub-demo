@@ -31,8 +31,7 @@ Imports by Volume           |  By value
 ![](imports_by_volume.png)  | ![](by_value_price_per_litre.png)
 
 Time series                 |  
-:-------------------------: | :--------------------------------:
-![](time_series.png)        |  
+![](time_series.png)          
 
 ## Recommendation
 Based on the analysis:
